@@ -1,0 +1,108 @@
+<div class="row">
+	<div class="col-md-6" style="text-align:center;font-size:24px;color:#000;margin-top:30px;">EXPERIENCE</div>
+	<div class="col-md-6" style="text-align:center;font-size:24px;color:#000;margin-top:30px;">EDUCATION</div>
+	</div>
+		<section id="cd-timeline" class="cd-container">
+		<div class="cd-timeline-block" >
+			<div class="cd-timeline-img cd-picture">
+				<!-- <img src="img/cd-icon-picture.svg" alt="Picture"> -->
+			</div> <!-- cd-timeline-img -->
+
+			<div class="cd-timeline-content" style="background-color:#fff;">
+
+				<h2 style="text-transform:uppercase;text-align:right;">senior systems engineer</h2>
+				<p style="text-align:right;">Infosys Limited, Chennai, India </p>
+				<ul style="list-style:circle; font-size:14px; line-height:18px; text-align:right;">
+				<li>Involved in complete software development life cycle of an online banking application using JAVA, SOAP Web services and SQL</li>
+				<br>
+				<li> Implemented the Credit Decision module, which performs the final approve/deny decision based on the credit details of the customer</li><br>
+				<li>Mentored junior members in the team and guided them during crisis</li>
+				</ul>
+				
+				<!-- <a href="#0" class="cd-read-more">Read more</a> -->
+				<!-- <span class="cd-date">Jan 15</span> -->
+			</div> <!-- cd-timeline-content -->
+		</div> <!-- cd-timeline-block -->
+
+		<div class="cd-timeline-block">
+			<div class="cd-timeline-img cd-movie">
+				<!-- <img src="img/cd-icon-movie.svg" alt="Movie"> -->
+			</div> <!-- cd-timeline-img -->
+
+			<div class="cd-timeline-content">
+				
+				<h2>The University of Texas at Dallas, Richardson, Texas </h2>
+				<p>Master of  Science, Computer Science</p>
+				<p> GPA: 3.67  </p>
+				<p><b>Related Coursework</b></p>
+				<ul style="list-style:circle; font-size:14px; line-height:18px;">
+					<li>Design and Analysis of Algorithms</li>
+					<li>Database Design</li>
+					<li>Operating Systems</li>
+					<li>Artificial Intelligence</li>
+					<li>Machine Learning</li>
+				</ul>
+				<!-- <a href="#0" class="cd-read-more">Read more</a> -->
+				<!-- <span class="cd-date">Jan 18</span> -->
+			</div> <!-- cd-timeline-content -->
+		</div> <!-- cd-timeline-block -->
+
+		<div class="cd-timeline-block">
+			<div class="cd-timeline-img cd-picture">
+				<!-- <img src="img/cd-icon-picture.svg" alt="Picture"> -->
+			</div> <!-- cd-timeline-img -->
+
+			<div class="cd-timeline-content">
+
+				<h2 style="text-transform:uppercase;text-align:right;">Systems Engineer</h2>
+				<p style="text-align:right;">Infosys Limited, Chennai, India</p>
+
+				<ul style="list-style:circle; font-size:14px; line-height:18px;text-align:right;">
+				<li>Developed an XML parsing tool using JAVA and XPath, for categorizing and persisting third party bureau data</li>
+				<br>
+				<li> Created a JAVA tool to derive the business data dynamically based on the business rules provided through an Excel file</li><br>
+				
+				</ul>
+				
+				<!-- <a href="#0" class="cd-read-more">Read more</a> -->
+				<!-- <span class="cd-date">Jan 24</span> -->
+			</div> <!-- cd-timeline-content -->
+		</div> <!-- cd-timeline-block -->
+
+		<div class="cd-timeline-block">
+			<div class="cd-timeline-img cd-location">
+				<!-- <img src="img/cd-icon-location.svg" alt="Location"> -->
+			</div> <!-- cd-timeline-img -->
+
+			<div class="cd-timeline-content">
+				
+				<h2>Anna University, Chennai, India </h2>
+				<p>Bachelor of Engineering, Electrical and Electronics</p>
+				<p>Aggregate: 75%</p>
+				<!-- <a href="#0" class="cd-read-more">Read more</a> -->
+				<!-- <span class="cd-date">Feb 14</span> -->
+			</div> <!-- cd-timeline-content -->
+		</div> <!-- cd-timeline-block -->
+
+		<div class="cd-timeline-block">
+			<div class="cd-timeline-img cd-location">
+				<!-- <img src="img/cd-icon-location.svg" alt="Location"> -->
+			</div> <!-- cd-timeline-img -->
+
+			<div class="cd-timeline-content">
+				<h2 style="text-align:right;">Trainee</h2>
+				<p style="text-align:right;">Infosys Limited, Mysore, India</p>
+				<p></p>
+				<!-- <a href="#0" class="cd-read-more">Read more</a> -->
+				<!-- <span class="cd-date">Feb 18</span> -->
+			</div> <!-- cd-timeline-content -->
+		</div> <!-- cd-timeline-block -->
+
+		
+	</section> <!-- cd-timeline -->
+
+
+<!-- <script src="http://ajax.googleapis.com/ajax/libs/jquery/1.11.0/jquery.min.js"></script> -->
+
+<!-- <script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jquery/1.6.4/jquery.min.js"></script> -->
+<script src="js/main.js"></script> <!-- Resource jQuery -->
